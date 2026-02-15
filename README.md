@@ -107,7 +107,7 @@ O sistema deve seguir as regras disciplinares do IFPI.
 
 
 - As ferramentas escolhidas para o desenvolvimento devem ser de fácil manutenção, permitindo que qualquer membro da equipe consiga entender o código e dar continuidade ao projeto.
-
+- A ferramenta utilizada seria python/django, pois já é utilizada e seria mais viável a conexão entre o sistema e a nova funcionalidade.
 
 - O código deve ser versionado, para evitar perda de informações e facilitar o controle de mudanças.
 
