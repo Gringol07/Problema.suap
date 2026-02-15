@@ -50,8 +50,7 @@ Aluno/Responsáveis consultar infrações
 
 6.1 Diagrama de Casos de Uso
    
-![Diagrama](<img width="561" height="342" alt="Diagrama aula aps drawio(4)" src="https://github.com/user-attachments/assets/1e4b827b-fe28-4f46-99fc-a77a2bdb4244" />
-)
+<img width="822" height="552" alt="Image" src="https://github.com/user-attachments/assets/d9a44ed7-d0ab-449c-99ab-64bc5b1cb31b" />
 
 
 6.2 Fluxo de Casos de Uso
